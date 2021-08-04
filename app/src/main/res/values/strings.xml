@@ -1,11 +1,11 @@
 <resources>
     <string name="app_name">AdmisionesEstudiantesESPOL</string>
-    <string name="admisiones">Admisiones</string>
-    <string name="matricula">Número de Matrícula</string>
+    <string name="admisiones">Admisiones ESPOL</string>
+    <string name="matricula">Cédula de Identidad</string>
     <string name="nombres">Nombres</string>
     <string name="apellidos">Apellidos</string>
     <string name="edad">Edad</string>
-    <string name="idCarrera">ID de Carrera</string>
+    <string name="idCarrera">Carrera a la que desea aplicar</string>
     <string name="correo">Correo electrónico</string>
     <string name="registrar">Registrar</string>
     <string name="consultar">Consultar</string>
