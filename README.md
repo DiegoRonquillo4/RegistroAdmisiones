@@ -7,6 +7,7 @@ Adjuntar datos de:
 - Edad(al terminar el pre)
 - ID de la carrera
 - Correo electronico
+
 Las funciones de los botones son:
 - Registrar: Añade los datos del estudiante a la base de datos
 - Consultar: Verifica que el estudiante exista en la base de datos
