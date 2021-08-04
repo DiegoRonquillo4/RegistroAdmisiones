@@ -1,11 +1,11 @@
 # RegistroAdmisiones
-Registro de estudiantes que aprovaron el Pre de Admisiones.
+Registro de estudiantes que desean ingresar al Pre de Admisiones.
 Adjuntar datos de:
-- Matricula
+- Cedula
 - Nombres Completos
 - Apellidos Completos
-- Edad(al terminar el pre)
-- ID de la carrera
+- Edad
+- Carrera
 - Correo electronico
 
 Las funciones de los botones son:
