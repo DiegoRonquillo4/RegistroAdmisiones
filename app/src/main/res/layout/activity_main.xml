@@ -36,7 +36,7 @@
             android:layout_height="23dp" />
 
         <EditText
-            android:id="@+id/editTextMatricula"
+            android:id="@+id/edtCedula"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
@@ -44,7 +44,7 @@
             android:inputType="number" />
 
         <EditText
-            android:id="@+id/editTextNombres"
+            android:id="@+id/edtNombres"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
@@ -52,7 +52,7 @@
             android:inputType="textPersonName" />
 
         <EditText
-            android:id="@+id/editTextApellidos"
+            android:id="@+id/edtApellidos"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
@@ -60,7 +60,7 @@
             android:inputType="textPersonName" />
 
         <EditText
-            android:id="@+id/editTextEdad"
+            android:id="@+id/edtEdad"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
@@ -68,7 +68,7 @@
             android:inputType="number" />
 
         <EditText
-            android:id="@+id/editTextIDCarrera"
+            android:id="@+id/edtCarrera"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
@@ -76,7 +76,7 @@
             android:inputType="text" />
 
         <EditText
-            android:id="@+id/editTextCorreo"
+            android:id="@+id/edtCorreo"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
@@ -94,7 +94,7 @@
             android:id="@+id/btnConsultar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:onClick="consultarMatricula"
+            android:onClick="consultarCedula"
             android:text="@string/consultar" />
 
         <Button
